@@ -1,5 +1,5 @@
 # DarthZowi
-Mod de un Zowi de BQ, transformado en un Zowimanoide. Mod sacado de ASROB.
+Mod de un Zowi de BQ, transformado en un Zowimanoide. Mod sacado de [ASROB](https://github.com/asrob-uc3m).
 
 # ZOWI
 
